@@ -1,0 +1,3 @@
+Chicken Noodle Soup:chicken,pasta,cellery,carrot,onions
+Beans and Rice:rice,beans,tomatopaste,onions
+Pasta with Marinara:tomatopaste,onions,carrots,pasta
